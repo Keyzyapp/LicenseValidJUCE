@@ -1,3 +1,7 @@
+Builds/
+JuceLibraryCode/BinaryData*
+JuceLibraryCode/juce*
+
 # Prerequisites
 *.d
 
